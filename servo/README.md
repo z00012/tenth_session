@@ -14,7 +14,8 @@
 1. سیم سیگنال سروو موتور به پایه دیجیتال 9 آردوینو متصل میشود .
 2. سیم تغذیه مثبت (VCC) سروو موتور به پایه 5 ولت آردوینو وصل میشود .
 3. سیم منفی (GND) سروو موتور به پایه GND آردوینو متصل میشود .
-   ![https://github.com/z00012/eighth_session/blob/main/servo/servo_schematic.jpg?raw=true]()
+   ![servo_schematic](https://github.com/user-attachments/assets/ee5fd48d-d932-4793-a2a0-83c3a25f45ea)
+
 
 ## برنامه نویسی:
 ```
