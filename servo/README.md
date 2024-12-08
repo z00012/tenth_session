@@ -15,6 +15,7 @@
 2. سیم تغذیه مثبت (VCC) سروو موتور به پایه 5 ولت آردوینو وصل میشود .
 3. سیم منفی (GND) سروو موتور به پایه GND آردوینو متصل میشود .
 
+     
 
 
    ![servo_schematic](https://github.com/user-attachments/assets/ee5fd48d-d932-4793-a2a0-83c3a25f45ea)
